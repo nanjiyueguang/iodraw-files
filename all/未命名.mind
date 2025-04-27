@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d9h2wi4los80","created":1745722284506,"text":"实物资产分类"},"children":[{"data":{"id":"d9h2wmze1p40","created":1745722295075,"text":"分支主题"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d9h2wi4los80","created":1745722284506,"text":"实物资产分类"},"children":[{"data":{"id":"d9h2wmze1p40","created":1745722295075,"text":"资产"},"children":[]},{"data":{"id":"d9h2wp3t7tc0","created":1745722299696,"text":"物料"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
