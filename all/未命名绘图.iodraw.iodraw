@@ -13,7 +13,7 @@
         <mxCell id="uBy4nH2DsZrR8TGrUPRN-5" value="供应链云" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.sales2;" vertex="1" parent="1">
           <mxGeometry x="130" y="430" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-6" value="其他采购" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.commerce;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="uBy4nH2DsZrR8TGrUPRN-6" value="其他采购" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.commerce;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="60" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="uBy4nH2DsZrR8TGrUPRN-10" value="资产使用管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
