@@ -32,7 +32,7 @@
         <mxCell id="a8ywwomrc1PIfZZpDgbG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.581;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;curved=0;" edge="1" parent="1" source="a8ywwomrc1PIfZZpDgbG-3" target="a8ywwomrc1PIfZZpDgbG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a8ywwomrc1PIfZZpDgbG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a8ywwomrc1PIfZZpDgbG-3">
+        <mxCell id="a8ywwomrc1PIfZZpDgbG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=3;strokeColor=#CC0000;" edge="1" parent="1" source="a8ywwomrc1PIfZZpDgbG-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="680" as="targetPoint" />
           </mxGeometry>
