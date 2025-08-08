@@ -7,7 +7,7 @@
         <mxCell id="uBy4nH2DsZrR8TGrUPRN-1" value="采购云" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.commerce2;" vertex="1" parent="1">
           <mxGeometry x="130" y="220" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.employees2;" vertex="1" parent="1">
+        <mxCell id="uBy4nH2DsZrR8TGrUPRN-4" value="人力云" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.employees2;" vertex="1" parent="1">
           <mxGeometry x="130" y="320" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uBy4nH2DsZrR8TGrUPRN-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.sales2;" vertex="1" parent="1">
