@@ -16,11 +16,14 @@
         <mxCell id="uBy4nH2DsZrR8TGrUPRN-6" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.commerce;" vertex="1" parent="1">
           <mxGeometry x="210" y="100" width="60" height="52.8" as="geometry" />
         </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-10" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
-          <mxGeometry x="520" y="290" width="60" height="47.400000000000006" as="geometry" />
+        <mxCell id="uBy4nH2DsZrR8TGrUPRN-10" value="资产使用管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="60" height="47.400000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-11" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
+        <mxCell id="uBy4nH2DsZrR8TGrUPRN-11" value="资产在库管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
           <mxGeometry x="520" y="110" width="48.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uBy4nH2DsZrR8TGrUPRN-12" value="工单管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.channels;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
