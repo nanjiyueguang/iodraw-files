@@ -17,7 +17,10 @@
           <mxGeometry x="210" y="100" width="60" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="uBy4nH2DsZrR8TGrUPRN-7" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.service2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="280" width="60" height="60" as="geometry" />
+          <mxGeometry x="530" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uBy4nH2DsZrR8TGrUPRN-8" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.work_com2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
