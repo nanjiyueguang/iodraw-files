@@ -22,6 +22,9 @@
         <mxCell id="uBy4nH2DsZrR8TGrUPRN-8" value="资产使用管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.work_com2;" vertex="1" parent="1">
           <mxGeometry x="520" y="390" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uBy4nH2DsZrR8TGrUPRN-10" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="60" height="47.400000000000006" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
