@@ -4,33 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-1" value="采购云" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.commerce2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-4" value="人力云" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.employees2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="320" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-5" value="供应链云" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.sales2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="430" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-6" value="其他采购" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.commerce;fillColor=#d5e8d4;strokeColor=#FF9999;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="60" height="52.8" as="geometry" />
-        </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-10" value="资产使用管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
-          <mxGeometry x="540" y="112.6" width="60" height="47.400000000000006" as="geometry" />
-        </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-11" value="资产在库管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
-          <mxGeometry x="389" y="100" width="48.6" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-12" value="工单管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.channels;" vertex="1" parent="1">
-          <mxGeometry x="389" y="250" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-15" value="备件耗材管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.automotive2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="250" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uBy4nH2DsZrR8TGrUPRN-17" value="生命周期管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.service;" vertex="1" parent="1">
-          <mxGeometry x="460" y="450" width="60" height="49.199999999999996" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
