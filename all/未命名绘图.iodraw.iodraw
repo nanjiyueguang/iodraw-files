@@ -28,6 +28,9 @@
         <mxCell id="uBy4nH2DsZrR8TGrUPRN-15" value="备件耗材管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.automotive2;" vertex="1" parent="1">
           <mxGeometry x="514" y="500" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uBy4nH2DsZrR8TGrUPRN-16" value="资产生命周期管理" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.workflow;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
