@@ -19,14 +19,15 @@
         <mxCell id="a8ywwomrc1PIfZZpDgbG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;curved=0;" edge="1" parent="1" source="a8ywwomrc1PIfZZpDgbG-2" target="a8ywwomrc1PIfZZpDgbG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a8ywwomrc1PIfZZpDgbG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.142;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#CC0000;curved=0;jumpStyle=arc;entryPerimeter=0;" edge="1" parent="1" source="a8ywwomrc1PIfZZpDgbG-2" target="a8ywwomrc1PIfZZpDgbG-15">
+        <mxCell id="a8ywwomrc1PIfZZpDgbG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#CC0000;curved=0;jumpStyle=arc;" edge="1" parent="1" source="a8ywwomrc1PIfZZpDgbG-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="710" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="734" />
               <mxPoint x="350" y="670" />
               <mxPoint x="740" y="670" />
-              <mxPoint x="740" y="710" />
-              <mxPoint x="900" y="710" />
+              <mxPoint x="740" y="650" />
+              <mxPoint x="900" y="650" />
               <mxPoint x="900" y="714" />
             </Array>
           </mxGeometry>
