@@ -49,17 +49,20 @@
           <mxGeometry x="30" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-14" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-17" target="l9iTDiU5IkX7Rm8aUOgG-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-22" value="调整" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l9iTDiU5IkX7Rm8aUOgG-21">
           <mxGeometry x="-0.0978" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="45" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-17" target="l9iTDiU5IkX7Rm8aUOgG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-17" target="l9iTDiU5IkX7Rm8aUOgG-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-17" value="资产归属根据新调整的组织架构变动" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -70,6 +73,9 @@
         </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
