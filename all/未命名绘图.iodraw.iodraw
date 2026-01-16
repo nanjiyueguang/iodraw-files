@@ -16,8 +16,11 @@
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-4" value="跨组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-5" value="跨组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-5" value="同组织跨部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-6" value="同组织跨部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
