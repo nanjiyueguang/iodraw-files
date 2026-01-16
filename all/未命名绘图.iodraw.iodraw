@@ -31,8 +31,14 @@
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-11" value="人员调整（A-&amp;gt;B）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-13" target="l9iTDiU5IkX7Rm8aUOgG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-13" value="先动组织架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-14" value="资产归属根据新调整的组织架构变动" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
