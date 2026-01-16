@@ -37,7 +37,7 @@
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-7" value="整部门调整（如改名）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-11" value="同组织跨部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-11" value="人员调整（A-&amp;gt;B）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
