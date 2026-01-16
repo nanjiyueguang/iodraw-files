@@ -51,6 +51,9 @@
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-17" target="l9iTDiU5IkX7Rm8aUOgG-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-17" target="l9iTDiU5IkX7Rm8aUOgG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-17" value="资产归属根据新调整的组织架构变动" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="450" width="120" height="80" as="geometry" />
         </mxCell>
@@ -61,7 +64,7 @@
           <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.6;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-17" target="l9iTDiU5IkX7Rm8aUOgG-14">
           <mxGeometry relative="1" as="geometry" />
