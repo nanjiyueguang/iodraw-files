@@ -43,11 +43,11 @@
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-13" value="先动组织架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-14" value="资产归属根据新调整的组织架构变动" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-14" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-17" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="450" width="80" height="80" as="geometry" />
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-17" value="资产归属根据新调整的组织架构变动" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
