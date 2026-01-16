@@ -106,8 +106,8 @@
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-32" target="l9iTDiU5IkX7Rm8aUOgG-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-41" value="原来NC可以抓到人力的入职时间和离职时间" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="310" width="80" height="80" as="geometry" />
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-41" value="原来NC可以抓到人力的入职时间和离职时间" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="45" y="300" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
