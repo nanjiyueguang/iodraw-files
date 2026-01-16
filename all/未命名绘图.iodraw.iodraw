@@ -91,11 +91,6 @@
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-30" value="归还/到期未归还做调拨" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-32" value="现有转单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -104,6 +99,9 @@
         </mxCell>
         <mxCell id="l9iTDiU5IkX7Rm8aUOgG-36" value="不变（数据刷新 资产云确认）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l9iTDiU5IkX7Rm8aUOgG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.407;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l9iTDiU5IkX7Rm8aUOgG-32" target="l9iTDiU5IkX7Rm8aUOgG-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
